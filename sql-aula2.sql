@@ -5,6 +5,9 @@ FROM
 ORDER BY
   owner, table_name
   
+  -- DUAL = TABELA TEMPORARIA DO ORACLE PARA CONSEGUIR EXECUTAR ALGO
+  SELECT SYSDATE FROM DUAL 
+  
   65327
 -------------------------------------------------------------------------------
 
