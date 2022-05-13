@@ -107,4 +107,6 @@ ALTER TABLE PESSOA_FISICA DROP COLUMN OBSERVACAO
 
 --SELECT POR SEQUENCIA
 SELECT * FROM PESSOA_FISICA WHERE NR_SEQUENCIA = 1
+--------------------------------------------------------------------------------
+
 
